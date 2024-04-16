@@ -2,7 +2,7 @@
 print('mwesigwa joshua mudde')
 
 # manzi's name
-
+print('Manzi Hilbert Mucunguzi')
 # valentine's name
 
 # Micheal's name
@@ -14,4 +14,5 @@ print('lubowa micheal')
 
 #demo added his contribution
 print ('demo')
+
 
