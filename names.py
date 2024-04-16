@@ -9,7 +9,7 @@ print('Manzi Hilbert Mucunguzi')
 print('lubowa micheal - Second time')
 
 # Bua's name
-
+print('Bua Isaac')
 #sample name
 
 #demo added his contribution
